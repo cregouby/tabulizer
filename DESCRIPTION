@@ -43,4 +43,4 @@ Suggests:
 Remotes: cregouby/tabulizerjars@v1.0.5
 SystemRequirements: Java (>= 7.0)
 VignetteBuilder: knitr
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
