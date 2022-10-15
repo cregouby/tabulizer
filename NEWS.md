@@ -1,6 +1,7 @@
-# CHANGES TO tabulizer 0.2.3
+# CHANGES TO tabulizer development version
 
 * Update to work with tabula-java version 1.0.3 (@billdenney)
+* Update to work with tabula-java version 1.0.5 (@cregouby)
 
 # CHANGES TO tabulizer 0.2.2
 
